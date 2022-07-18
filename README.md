@@ -1,5 +1,8 @@
 ## Gogs Custom Theme
 
+#### Preview
+![preview](preview.gif)
+
 #### Feature
 - Support night theme
 - Remove Gogs brand
