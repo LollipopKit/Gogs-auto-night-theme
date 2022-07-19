@@ -1,0 +1,19 @@
+<svg width="72.6" height="20" viewBox="0 0 726 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gogs 0.12.9">
+  <title>Gogs 0.12.9</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="726" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="368" height="200" fill="#555"/>
+    <rect width="358" height="200" fill="#1BC" x="368"/>
+    <rect width="726" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="248" fill="#000" opacity="0.25">Gogs</text>
+    <text x="50" y="138" textLength="258">Gogs</text>
+    <text x="413" y="148" textLength="278" fill="#000" opacity="0.25">0.12.9</text>
+    <text x="403" y="138" textLength="278">0.12.9</text>
+  </g>
+</svg>
